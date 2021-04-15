@@ -12,10 +12,10 @@ The overall purpose of this project is to evaluate and analyses the requirement 
  # Benefits
  A basic command-line Automated Teller Machine simulator that allows the user to perform a variety of actions, such as
 
-->Check their account balance
-->Deposit money
-->Withdraw money
-->Exit when they're done
+-(1)Check their account balance
+-(2)Deposit money
+-(3)Withdraw money
+-(4)Exit when they're done
 ## Defining Our System
    - Bank Management System application is capable of performing following functions-:
     - Deposit Money
