@@ -9,4 +9,4 @@ Cashpoint's enable individuals to make banking transactions without the help of 
 
 [![cppcheck-action](https://github.com/Chinnam-Narendra-Prasad/CASHPOINT-TRANSACTION-SYSTEM/actions/workflows/cppcheck1.yml/badge.svg)](https://github.com/Chinnam-Narendra-Prasad/CASHPOINT-TRANSACTION-SYSTEM/actions/workflows/cppcheck1.yml)
 
-[![CI](https://github.com/Chinnam-Narendra-Prasad/CASHPOINT-TRANSACTION-SYSTEM/actions/workflows/build.yml/badge.svg)](https://github.com/Chinnam-Narendra-Prasad/CASHPOINT-TRANSACTION-SYSTEM/actions/workflows/build.yml)
+
