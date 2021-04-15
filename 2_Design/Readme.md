@@ -4,7 +4,7 @@
 
 --- TBD Structural and Behavioural Diagram
 ![HighLevelStructuralDiagram](https://github.com/Chinnam-Narendra-Prasad/CASHPOINT-TRANSACTION-SYSTEM/blob/main/2_Design/high%20level.png)
-![HighLevelBehaviouralDiagram](Link to Pic)
+![HighLevelBehaviouralDiagram](https://github.com/Chinnam-Narendra-Prasad/CASHPOINT-TRANSACTION-SYSTEM/blob/main/2_Design/high%20level.2.jpg)
 
 ## Low Level Design 
 
