@@ -21,7 +21,7 @@ The Cash Point network will work together with the software provided by the bank
 
 ## Defining Our System
 ### Architecture
-![](PP.png)
+![](https://github.com/Chinnam-Narendra-Prasad/CASHPOINT-TRANSACTION-SYSTEM/blob/main/PROJECT/PP.png)
 - Bank Management System application is capable of performing following functions-:
     - Deposit Money
     - Withdraw money
