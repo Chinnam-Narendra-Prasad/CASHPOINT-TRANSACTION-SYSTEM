@@ -23,7 +23,7 @@ The overall purpose of this project is to evaluate and analyses the requirement 
     - Display account list
     - Exiting -- TBD
 ## SWOT ANALYSIS
-![SWOT-Sample](Link to Pic)
+![SWOT-Sample](https://github.com/Chinnam-Narendra-Prasad/CASHPOINT-TRANSACTION-SYSTEM/blob/main/swot%20pic.png)
 
 # 4W&#39;s and 1&#39;H
 
