@@ -3,10 +3,10 @@
  -The Cash Point network will work together with the software provided by the banks, where banks have defined interfaces for the communication. -- TBD 
 
 ## Research
-![Description](Link to Pic)
+![Description](https://github.com/Chinnam-Narendra-Prasad/CASHPOINT-TRANSACTION-SYSTEM/blob/main/model.png)
 -- Content 
 ## Cost and Features
-![Description](Link to Pic)
+![Description]()
 -- Content 
 The overall purpose of this project is to evaluate and analyses the requirement of the customer, design and implement the system, testing the functionality and maintain the software of an cash point component of a larger ATM network project, consistent with the requirement specification. .
  # Benefits
@@ -45,10 +45,9 @@ The overall purpose of this project is to evaluate and analyses the requirement 
 
 ## How:
 - he user so as to build an effective and efficient system and sometime cause issue in creating and storing details of a customer due to issuses in network or due to some other technical glitch
+- 
 # Detail requirements
 **TBD**
-
-# Detail requirements
 ## High Level Requirements:
 --- TBD in Tabular Format 
 | ID   | Description                                                                                       | Category  | Status |
