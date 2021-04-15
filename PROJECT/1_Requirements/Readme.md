@@ -16,7 +16,7 @@ The Cash Point network will work together with the software provided by the bank
 ->Exit when they're done
  - 
 ## Cost and Features
-![Description](Link to Pic)
+![Description](pp.png)
 -- Content 
 
 ## Defining Our System
