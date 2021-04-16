@@ -1,6 +1,6 @@
 # Requirements
 ## Introduction
- -The Cash Point network will work together with the software provided by the banks, where banks have defined interfaces for the communication. -- TBD 
+ -The Cash Point network will work together with the software provided by the banks, where banks have defined interfaces for the communication. --  
 
 ## Research
 ![Description](https://github.com/Chinnam-Narendra-Prasad/CASHPOINT-TRANSACTION-SYSTEM/blob/main/model.png)
@@ -21,7 +21,7 @@ The overall purpose of this project is to evaluate and analyses the requirement 
     - Deposit Money
     - Withdraw money
     - Display account list
-    - Exiting -- TBD
+    - Exiting -- 
 ## SWOT ANALYSIS
 ![SWOT-Sample](https://github.com/Chinnam-Narendra-Prasad/CASHPOINT-TRANSACTION-SYSTEM/blob/main/swot%20pic.png)
 
@@ -29,25 +29,24 @@ The overall purpose of this project is to evaluate and analyses the requirement 
 
 ## Who:
 - The administrator who handles the customer bank account details and provide basic banking facilities to their customers.
-**TBD**
+
 
 ## What:
 - The operations related to deposting,withdrawing,checking can be performed.
-**TBD**
+
 
 ## When:
 -The project can be used at the time to create and manage the bank account.
-**TBD**
+
 
 ## Where:
 - This problem can occur in different banking sectors all over the world.
-**TBD**
 
 ## How:
 - he user so as to build an effective and efficient system and sometime cause issue in creating and storing details of a customer due to issuses in network or due to some other technical glitch
 - 
 # Detail requirements
-**TBD**
+
 ## High Level Requirements:
 --- TBD in Tabular Format 
 | ID   | Description                                                                                       | Category  | Status |
