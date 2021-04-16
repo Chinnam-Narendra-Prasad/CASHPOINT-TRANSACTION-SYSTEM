@@ -4,8 +4,7 @@
 #include <stdbool.h>
 #include <math.h>
 
-void
-mainMenu ()
+void mainMenu ()
 {
 
   printf ("***Hello!***\n");
@@ -17,16 +16,14 @@ mainMenu ()
   printf ("For Exit....Click 4\n\n");
 }				//Main Menu
 
-float
-checkBalance (float balance)
+float checkBalance (float balance)
 {
   printf ("You Choose to See your Balance\n");
   printf ("\n\n****Your Available Balance is:   $%.2f\n\n", balance);
   return balance;
 }				//Check Balance
 
-float
-moneyDeposit (float balance)
+float moneyDeposit (float balance)
 {
   float deposit;
   printf ("You choose to Deposit a money\n");
@@ -38,8 +35,7 @@ moneyDeposit (float balance)
   return balance;
 }				//money deposit
 
-float
-moneyWithdraw (float balance)
+float moneyWithdraw (float balance)
 {
   float withdraw;
   bool back = true;
@@ -67,15 +63,13 @@ moneyWithdraw (float balance)
   return balance;
 }				//money withdraw
 
-void
-menuExit ()
+void menuExit ()
 {
   printf ("--------------Take your receipt!!!------------------\n");
   printf ("-----Thank you for using Cash Point!!!-----\n");
 }				//exit menu
 
-void
-errorMessage ()
+void errorMessage ()
 {
   printf ("+++!!!You selected invalid number!!!+++\n");
 }
