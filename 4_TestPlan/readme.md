@@ -5,7 +5,7 @@
 | **Test ID** | **Description**                                              | **Exp I/P**   | **Exp O/P** | **Actual Out** |**Type Of Test**  |    
 |-------------|--------------------------------------------------------------|-------------- |-------------|----------------|------------------|
 |  H_01       |password is correct or not                                    |Password string|successful  | PASS            |Requirement based |
-|  H_02       |if search for an account is successful                        |  Array of structure,number of entries and account number to be searched |0-|PASS
+|  H_02       |if search for an account is successful                        |  Array of structure,number of entries and account number to be searched |0|PASS |Requirement based |
 |  H_03       |--------------------------------------------------------------|  ------------ |-------------|----------------|Boundary based    |
 
 ## Table no: Low level test plan
