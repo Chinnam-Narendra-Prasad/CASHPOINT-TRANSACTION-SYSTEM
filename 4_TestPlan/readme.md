@@ -13,5 +13,4 @@
 | **Test ID** | **Description**                                              | **Exp IN** | **Exp OUT** | **Actual Out** |**Type Of Test**  |    
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
 |  L_01       |if account number is unique-|  Account number|re-enter Account number|if unique:PASS,otherwise "Re-enter Account Number"|Requirement based |
-|  L_02       |--------------------------------------------------------------|  ------------|-------------|----------------|Scenario based    |
-|  L_03       |--------------------------------------------------------------|  ------------|-------------|----------------|Boundary based    |
+|  L_02       |if choice for the switchcase is within the range| choice(0-4)|Respective case statement will be printed else wrong choice|Print statement|Scenario based    |
